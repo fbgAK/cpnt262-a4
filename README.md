@@ -27,4 +27,4 @@ https://stackoverflow.com/questions/6958401/the-difference-between-and
 
 =+ is just the assignment operator followed by the unary + operator. It sets the value of the LHS operand to the value of the RHS operand:
 
-There are further challenges I tried on codepen but had alot of trial and error.
+I tried further challenges on codepen but had alot of trial and error.
